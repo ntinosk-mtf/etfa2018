@@ -1,7 +1,7 @@
 # ETFA 2018
-Source code for Modbus/TCP fuzzer (MTF-Storm) used for ETFA 2018 paper[2]
+Source code for Modbus/TCP fuzzer (MTF-Storm) used for ETFA 2018 paper [2]
 
-MTF-Storm[2] extends MTF [1] introducing novel techniques and methods in the selection of values and the format
+MTF-Storm[2] extends MTF [1] (cf https://github.com/artemiosv/etfa2015) introducing novel techniques and methods in the selection of values and the format
 alteration techniques. MTF-Storm adopts a systematic approach to exercise values of packet fields and format
 changes, in contrast to the random values and changes used by MTF. 
 
