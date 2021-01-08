@@ -1,0 +1,16 @@
+
+MTF-Storm ver 1.0 fuzzing run
+
+Date of run:Sun Oct 25 19:12:50 2020
+Fuzzing field :byte_count 
+
+FC: 16 (0x10)..,software under test: ./log/ 
+Total no. of rows: 5 
+Field names are:address, quantity_of_x, byte_count, output_value, 2-way
+
+Total rows of test are:
+8190,4,8,8,
+8190,4,10,8,
+8190,4,11,8,
+8190,4,12,8,
+8190,4,15,8,

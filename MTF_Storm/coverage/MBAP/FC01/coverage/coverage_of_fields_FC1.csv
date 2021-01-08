@@ -1,0 +1,16 @@
+
+MTF-Storm ver 1.0 fuzzing run:
+
+Date of run:Sat Oct 31 20:34:52 2020
+
+FC: 1 (0x01)..,software under test: ./log/ 
+column names are:field, valid, invalid, total coverage % 
+
+Coverage for fields:transId, protoId, len, unitId
+
+	case and coverage for field no:
+
+	   transId	      9436	         0	     14.40
+	   protoId	         1	       941	      1.44
+	       len	         4	      1368	      2.09
+	    unitId	        96	         0	     37.50

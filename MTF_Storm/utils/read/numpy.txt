@@ -1,0 +1,14 @@
+https://thispointer.com/python-numpy-select-rows-columns-by-index-from-a-2d-ndarray-multi-dimension/
+
+https://www.tutorialsandyou.com/python/iterating-over-numpy-array-77.html
+
+NumPy's main object is the homogeneous multidimensional array. In Numpy dimensions are called axes. The number of axes is rank. Numpy's array class is called ndarray. It is also known by the alias array. The more important attributes of an ndarray object are:
+
+ndarray.ndim
+the number of axes (dimensions) of the array. In the Python world, the number of dimensions is referred to as rank.
+
+ndarray.shape
+the dimensions of the array. This is a tuple of integers indicating the size of the array in each dimension. For a matrix with n rows and m columns, shape will be (n,m). The length of the shape tuple is therefore the rank, or number of dimensions, ndim.
+
+ndarray.size
+he total number of elements of the array. This is equal to the product of the elements of shape.

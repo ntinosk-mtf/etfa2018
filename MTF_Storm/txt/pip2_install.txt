@@ -1,0 +1,23 @@
+
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/
+
+
+#---version 3
+apt install python3-pip
+
+pip 20.1.1 from /usr/lib/python3/dist-packages/pip (python 3.8)
+
+#---install pip or python2 
+curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
+
+python2 get-pip.py
+
+
+ #pip2 --version
+pip 20.2.4 from /usr/local/lib/python2.7/dist-packages/pip (python 2.7)
+
+
+
+
+
+

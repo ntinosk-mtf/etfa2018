@@ -1,0 +1,9 @@
+is csv create cartesian protec FC01-FC04
+
+FC15, FC16 CREATE fron all pair tools with
+------------------  "Contr.rules---------------------------------------
+
+Byte Count == Quantity of Outputs % 8 + [Quantity of Outputs / 8]
+and Outputs Value ==Quantity of Outputs/8
+
+

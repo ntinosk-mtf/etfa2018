@@ -1,0 +1,126 @@
+sudo apt install python-pip
+pip install modbus_tk==0.4.2
+pip install scapy
+ pip install AllPairs
+ pip install numpy
+ 
+ 
+ ls /usr/bin/python*
+  
+ https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux
+  
+  
+update-alternatives --list python
+/usr/bin/python2.7
+/usr/bin/python3.4
+
+update-alternatives --config python
+
+# update-alternatives --remove python /usr/bin/python2.7
+update-alternatives: removing manually selected alternative - switching python to auto mode
+update-alternatives: using /usr/bin/python3.4 to provide /usr/bin/python (python) in auto mode
+
+#update-alternatives --config python
+There are 2 choices for the alternative python (providing /usr/bin/python).
+
+  Selection    Path                Προτε Status
+------------------------------------------------------------
+* 0            /usr/bin/python3.4   2         auto mode
+  1            /usr/bin/python2.7   1         manual mode
+  2            /usr/bin/python3.4   2         manual mode
+
+  
+   Automated Python 2 to 3 code translation¶
+   https://stackoverflow.com/questions/37891188/convert-python-2-code-to-3-in-pycharm
+   
+   https://docs.python.org/2/library/2to3.html
+
+  
+ 2to3 --output-dir=python3-version/mycode -W -n python2-version/mycode
+	
+   
+   
+   #--------------------------------------------#
+   https://www.jetbrains.com/pycharm/
+   https://itsfoss.com/install-pycharm-ubuntu/
+   #--------------------------------------------
+   https://python-modernize.readthedocs.io/en/latest/
+   http://python-future.org/automatic_conversion.html
+   
+   
+Convert python 2 code to 3 in PyCharm
+
+1.2to3 myfile.py -w
+
+
+https://github.com/mitsuhiko/python-modernize
+
+python-modernize -w example.py
+
+
+utomated Python 2 to 3 code translation
+ 
+ 2to3 --output-dir=python3-version/mycode -W -n python2-version/mycode
+ 
+  2to3 --output-dir=./mtf_fsm_exh_py_3/ -W -n ./mtf_fsm_exh/ &> SomeFile.txt
+ 
+ 
+ /media/ntinosk/backup---10/09/2019
+ μεταφορά /media/ntinosk/backup/mtf_fsm_exh
+ 
+ file:///media/ntinosk/backup/mtf_fsm_exh_py_3
+ 
+ 
+Or if you want to append data:
+
+SomeCommand >> SomeFile.txt
+If you want stderr as well use this:
+
+SomeCommand &> SomeFile.txt  
+or this to append:
+
+SomeCommand &>> SomeFile.txt  
+
+grep find dir
+find / -type d | grep "directory name"
+
+pip2 --version
+pip 1.5.4 from /usr/lib/python2.7/dist-packages (python 2.7)
+
+pip3 --version  >>>>  apt install python3-pip
+pip 1.5.4 from /usr/lib/python3/dist-packages (python 3.4)
+
+Using pip3 to install Python3 modules
+sudo apt-get install python3-pip
+
+
+run from ./mtf_fsm_exh_py_3/
+1.mηνυμα, mport modbus_tk
+Downloading modbus_tk-1.0.0.tar.gz
+pip3 install modbus_tk
+
+pip3 install scapy
+pip3 install AllPairs
+
+προβλημα στο 
+
+ File "/usr/local/lib/python3.4/dist-packages/metacomm/combinatorics/all_pairs2.py", line 2, in <module>
+    import metacomm.combinatorics.pairs_storage
+  File "/usr/local/lib/python3.4/dist-packages/metacomm/combinatorics/pairs_storage.py", line 1, in <module>
+    from combinatorics import xuniqueCombinations 
+ImportError: No module named 'combinatorics'
+
+
+GCC 4.8.4] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import sys
+>>> print(sys.path)
+['', '/usr/lib/python3.4', '/usr/lib/python3.4/plat-i386-linux-gnu',
+'/usr/lib/python3.4/lib-dynload', '/usr/local/lib/python3.4/dist-packages',
+'/usr/lib/python3/dist-packages']
+
+
+
+
+  
+   
