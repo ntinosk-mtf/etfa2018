@@ -70,8 +70,11 @@ IV. python mtf.py -i 192.168.Χ.Χ -s -z -f -t 3, identification process (phase 
 	b) generated files as I.a and I.b above.
 	
 IVV. python mtf.py -i 192.168.Χ.Χ  -z -f -t 4 -r 300, send 300 normal request (not fuzz) in the list of supported FC, with random valid value in PDU fields	
-	
+
+
 INFO: 
+Type to "Ctr-c", stop fuzzer, end program execution
+
 Defaults directory ./ 'install dir' -- such as MTF_STORM
  ./           -- save search.csv (FC support and address  and dump_memory.csv (map address table), csv file after search mode (reconnaissance)
 log_dir=./log -- path log file,save log files, 
@@ -90,5 +93,6 @@ some instructions-en
 some results from reconnaissance
 /Coverage report
 some results from statistics, Coverage,  tuples of test value
+
 
 
