@@ -13,7 +13,7 @@ Source code for Modbus/TCP fuzzer (MTF-Storm) used for ETFA 2018 paper [2]
 *  Failure detection, log files (error and info), automatic evaluation
 
 # Installation and runing
-See in file mtf_storm_instructions-en.txt  (current version use python 2.7.3)
+* See in file mtf_storm_instructions-en.txt  (current version use python 2.7.3)
 
 # Soon ...
 * New version for python 3.x 
