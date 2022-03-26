@@ -1,0 +1,33 @@
+https://www.cyberciti.biz/faq/linux-unix-shell-history-search-command/
+
+history | grep command-name
+#
+history | grep java
+
+java -jar acts_3.0.jar
+
+/home/ntinosk/MTF_PROJECT/ACTS3_0
+java -jar acts_3.0.jar
+
+java -Xms <initial heap size> -Xmx <max heap size> <options> -jar acts.jar
+
+Java heap size descriptions (xms, xmx, xmn)
+-Xms size in bytes
+Sets the initial size of the Java heap. 
+The default size is 2097152 (2MB). 
+The values must be a multiple of, and greater than, 1024 bytes (1KB).
+(The -server flag increases the default size to 32M.)
+
+-Xmn size in bytes
+Sets the initial Java heap size for the Eden generation. 
+The default value is 640K. 
+(The -server flag increases the default size to 2M.)
+
+-Xmx size in bytes
+Sets the maximum size to which the Java heap can grow. 
+The default size is 64M. 
+(The -server flag increases the default size to 128M.) 
+The maximum heap limit is about 2 GB (2048MB).
+
+
+java -Xms1024M -jar acts_3.0.jar

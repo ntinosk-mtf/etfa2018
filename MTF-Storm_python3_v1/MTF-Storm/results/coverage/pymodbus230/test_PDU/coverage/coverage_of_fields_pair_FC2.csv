@@ -1,0 +1,15 @@
+
+MTF-Storm v1.0 python3 fuzzing run:
+
+Date of run:2022-02-28 22:26:00.023301
+
+FC: 2 (0x02)..,software under test: ./log/ 
+column names are:field, valid, invalid, total coverage % 
+
+Coverage for fields 2-way :address, quantity_of_x, add_and_qua
+
+	 case of test are:
+
+	   address	       148	       930	      0.00
+	quantity_of_x	       441	       637	      0.00
+	add_and_qua	       464	       614	      0.00

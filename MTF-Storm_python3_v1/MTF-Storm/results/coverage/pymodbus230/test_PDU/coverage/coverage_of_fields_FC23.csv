@@ -1,0 +1,17 @@
+
+MTF-Storm v1.0 python3 fuzzing run:
+
+Date of run:2022-03-01 01:01:48.873881
+
+FC: 23 (0x17)..,software under test: ./log/ 
+column names are:field, valid, invalid, total coverage % 
+
+Coverage for fields:1-way_read_starting_address, 1-way_quantity_to_Read, 1-way_write_starting_address, 1-way_quantity_to_Write, 1-way_write_byte_count
+
+	case and coverage for field no:
+
+	1-way_read_starting_address	       315	       514	      1.26
+	1-way_quantity_to_Read	       110	       511	      0.95
+	1-way_write_starting_address	       315	       514	      1.26
+	1-way_quantity_to_Write	       106	       515	      0.95
+	1-way_write_byte_count	        86	        10	     37.50

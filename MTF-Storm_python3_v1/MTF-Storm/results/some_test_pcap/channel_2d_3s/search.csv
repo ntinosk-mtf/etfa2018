@@ -1,0 +1,6 @@
+FC_1	FC_2	IN_REG	COILS	DIS_IN	HO_REG
+1		0	0	0	8
+3		65535	1	65535	9
+5			2		10
+6					11
+16					

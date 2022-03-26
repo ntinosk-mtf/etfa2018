@@ -1,0 +1,868 @@
+2022-02-06 10:19:00,936 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:00,937 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:00,938 - root - WARNING - Function Code 0 probably supported.
+2022-02-06 10:19:01,428 - root - WARNING - Function Code 5 not supported.
+2022-02-06 10:19:01,604 - root - WARNING - Function Code 7 not supported.
+2022-02-06 10:19:02,607 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:02,608 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:02,610 - root - WARNING - Function Code 8 probably supported.
+2022-02-06 10:19:02,876 - root - WARNING - Function Code 9 not supported.
+2022-02-06 10:19:03,880 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:03,881 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:03,882 - root - WARNING - Function Code 10 probably supported.
+2022-02-06 10:19:04,158 - root - WARNING - Function Code 11 not supported.
+2022-02-06 10:19:05,161 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:05,162 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:05,163 - root - WARNING - Function Code 12 probably supported.
+2022-02-06 10:19:05,443 - root - WARNING - Function Code 13 not supported.
+2022-02-06 10:19:06,446 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:06,447 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:06,449 - root - WARNING - Function Code 14 probably supported.
+2022-02-06 10:19:07,452 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:07,453 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:07,454 - root - WARNING - Function Code 15 probably supported.
+2022-02-06 10:19:08,457 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:08,458 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:08,459 - root - WARNING - Function Code 16 probably supported.
+2022-02-06 10:19:09,463 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:09,464 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:09,465 - root - WARNING - Function Code 17 probably supported.
+2022-02-06 10:19:10,468 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:10,470 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:10,471 - root - WARNING - Function Code 18 probably supported.
+2022-02-06 10:19:11,475 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:11,476 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:11,477 - root - WARNING - Function Code 19 probably supported.
+2022-02-06 10:19:12,481 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:12,482 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:12,483 - root - WARNING - Function Code 20 probably supported.
+2022-02-06 10:19:13,486 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:13,487 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:13,489 - root - WARNING - Function Code 21 probably supported.
+2022-02-06 10:19:14,492 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:14,493 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:14,494 - root - WARNING - Function Code 22 probably supported.
+2022-02-06 10:19:15,498 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:15,499 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:15,500 - root - WARNING - Function Code 23 probably supported.
+2022-02-06 10:19:16,504 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:16,505 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:16,506 - root - WARNING - Function Code 24 probably supported.
+2022-02-06 10:19:16,572 - root - WARNING - Function Code 25 not supported.
+2022-02-06 10:19:17,576 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:17,577 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:17,578 - root - WARNING - Function Code 26 probably supported.
+2022-02-06 10:19:17,848 - root - WARNING - Function Code 27 not supported.
+2022-02-06 10:19:18,851 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:18,852 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:18,853 - root - WARNING - Function Code 28 probably supported.
+2022-02-06 10:19:19,134 - root - WARNING - Function Code 29 not supported.
+2022-02-06 10:19:20,138 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:20,139 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:20,140 - root - WARNING - Function Code 30 probably supported.
+2022-02-06 10:19:20,425 - root - WARNING - Function Code 31 not supported.
+2022-02-06 10:19:21,428 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:21,429 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:21,430 - root - WARNING - Function Code 32 probably supported.
+2022-02-06 10:19:21,697 - root - WARNING - Function Code 33 not supported.
+2022-02-06 10:19:22,701 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:22,702 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:22,703 - root - WARNING - Function Code 34 probably supported.
+2022-02-06 10:19:22,972 - root - WARNING - Function Code 35 not supported.
+2022-02-06 10:19:23,976 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:23,977 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:23,978 - root - WARNING - Function Code 36 probably supported.
+2022-02-06 10:19:24,256 - root - WARNING - Function Code 37 not supported.
+2022-02-06 10:19:25,259 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:25,260 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:25,262 - root - WARNING - Function Code 38 probably supported.
+2022-02-06 10:19:25,538 - root - WARNING - Function Code 39 not supported.
+2022-02-06 10:19:26,541 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:26,542 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:26,544 - root - WARNING - Function Code 40 probably supported.
+2022-02-06 10:19:26,831 - root - WARNING - Function Code 41 not supported.
+2022-02-06 10:19:27,834 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:27,835 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:27,836 - root - WARNING - Function Code 42 probably supported.
+2022-02-06 10:19:28,110 - root - WARNING - Function Code 43 not supported.
+2022-02-06 10:19:29,113 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:29,114 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:29,116 - root - WARNING - Function Code 44 probably supported.
+2022-02-06 10:19:29,391 - root - WARNING - Function Code 45 not supported.
+2022-02-06 10:19:30,395 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:30,396 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:30,397 - root - WARNING - Function Code 46 probably supported.
+2022-02-06 10:19:30,672 - root - WARNING - Function Code 47 not supported.
+2022-02-06 10:19:31,676 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:31,678 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:31,679 - root - WARNING - Function Code 48 probably supported.
+2022-02-06 10:19:31,943 - root - WARNING - Function Code 49 not supported.
+2022-02-06 10:19:32,947 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:32,948 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:32,949 - root - WARNING - Function Code 50 probably supported.
+2022-02-06 10:19:33,227 - root - WARNING - Function Code 51 not supported.
+2022-02-06 10:19:34,231 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:34,232 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:34,233 - root - WARNING - Function Code 52 probably supported.
+2022-02-06 10:19:34,491 - root - WARNING - Function Code 53 not supported.
+2022-02-06 10:19:35,495 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:35,496 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:35,497 - root - WARNING - Function Code 54 probably supported.
+2022-02-06 10:19:35,768 - root - WARNING - Function Code 55 not supported.
+2022-02-06 10:19:36,772 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:36,773 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:36,774 - root - WARNING - Function Code 56 probably supported.
+2022-02-06 10:19:37,039 - root - WARNING - Function Code 57 not supported.
+2022-02-06 10:19:38,043 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:38,044 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:38,045 - root - WARNING - Function Code 58 probably supported.
+2022-02-06 10:19:38,329 - root - WARNING - Function Code 59 not supported.
+2022-02-06 10:19:39,332 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:39,333 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:39,334 - root - WARNING - Function Code 60 probably supported.
+2022-02-06 10:19:39,614 - root - WARNING - Function Code 61 not supported.
+2022-02-06 10:19:40,618 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:40,619 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:40,620 - root - WARNING - Function Code 62 probably supported.
+2022-02-06 10:19:40,898 - root - WARNING - Function Code 63 not supported.
+2022-02-06 10:19:41,901 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:41,903 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:41,904 - root - WARNING - Function Code 64 probably supported.
+2022-02-06 10:19:42,158 - root - WARNING - Function Code 65 not supported.
+2022-02-06 10:19:43,161 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:43,162 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:43,163 - root - WARNING - Function Code 66 probably supported.
+2022-02-06 10:19:43,441 - root - WARNING - Function Code 67 not supported.
+2022-02-06 10:19:44,444 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:44,446 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:44,447 - root - WARNING - Function Code 68 probably supported.
+2022-02-06 10:19:44,735 - root - WARNING - Function Code 69 not supported.
+2022-02-06 10:19:45,738 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:45,739 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:45,740 - root - WARNING - Function Code 70 probably supported.
+2022-02-06 10:19:46,031 - root - WARNING - Function Code 71 not supported.
+2022-02-06 10:19:47,035 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:47,036 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:47,037 - root - WARNING - Function Code 72 probably supported.
+2022-02-06 10:19:47,316 - root - WARNING - Function Code 73 not supported.
+2022-02-06 10:19:48,320 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:48,321 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:48,322 - root - WARNING - Function Code 74 probably supported.
+2022-02-06 10:19:48,580 - root - WARNING - Function Code 75 not supported.
+2022-02-06 10:19:49,583 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:49,584 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:49,586 - root - WARNING - Function Code 76 probably supported.
+2022-02-06 10:19:49,868 - root - WARNING - Function Code 77 not supported.
+2022-02-06 10:19:50,872 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:50,873 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:50,874 - root - WARNING - Function Code 78 probably supported.
+2022-02-06 10:19:51,132 - root - WARNING - Function Code 79 not supported.
+2022-02-06 10:19:52,135 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:52,137 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:52,138 - root - WARNING - Function Code 80 probably supported.
+2022-02-06 10:19:52,396 - root - WARNING - Function Code 81 not supported.
+2022-02-06 10:19:53,400 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:53,401 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:53,402 - root - WARNING - Function Code 82 probably supported.
+2022-02-06 10:19:53,661 - root - WARNING - Function Code 83 not supported.
+2022-02-06 10:19:54,664 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:54,665 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:54,666 - root - WARNING - Function Code 84 probably supported.
+2022-02-06 10:19:54,923 - root - WARNING - Function Code 85 not supported.
+2022-02-06 10:19:55,927 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:55,928 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:55,929 - root - WARNING - Function Code 86 probably supported.
+2022-02-06 10:19:56,208 - root - WARNING - Function Code 87 not supported.
+2022-02-06 10:19:57,211 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:57,213 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:57,214 - root - WARNING - Function Code 88 probably supported.
+2022-02-06 10:19:57,489 - root - WARNING - Function Code 89 not supported.
+2022-02-06 10:19:58,492 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:58,494 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:58,495 - root - WARNING - Function Code 90 probably supported.
+2022-02-06 10:19:58,766 - root - WARNING - Function Code 91 not supported.
+2022-02-06 10:19:59,769 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:19:59,770 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:19:59,771 - root - WARNING - Function Code 92 probably supported.
+2022-02-06 10:20:00,044 - root - WARNING - Function Code 93 not supported.
+2022-02-06 10:20:01,048 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:01,049 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:01,050 - root - WARNING - Function Code 94 probably supported.
+2022-02-06 10:20:01,328 - root - WARNING - Function Code 95 not supported.
+2022-02-06 10:20:02,332 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:02,333 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:02,334 - root - WARNING - Function Code 96 probably supported.
+2022-02-06 10:20:02,612 - root - WARNING - Function Code 97 not supported.
+2022-02-06 10:20:03,615 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:03,616 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:03,618 - root - WARNING - Function Code 98 probably supported.
+2022-02-06 10:20:03,876 - root - WARNING - Function Code 99 not supported.
+2022-02-06 10:20:04,880 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:04,881 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:04,882 - root - WARNING - Function Code 100 probably supported.
+2022-02-06 10:20:05,157 - root - WARNING - Function Code 101 not supported.
+2022-02-06 10:20:06,161 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:06,162 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:06,163 - root - WARNING - Function Code 102 probably supported.
+2022-02-06 10:20:06,426 - root - WARNING - Function Code 103 not supported.
+2022-02-06 10:20:07,429 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:07,431 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:07,432 - root - WARNING - Function Code 104 probably supported.
+2022-02-06 10:20:07,694 - root - WARNING - Function Code 105 not supported.
+2022-02-06 10:20:08,697 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:08,698 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:08,699 - root - WARNING - Function Code 106 probably supported.
+2022-02-06 10:20:08,955 - root - WARNING - Function Code 107 not supported.
+2022-02-06 10:20:09,959 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:09,960 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:09,961 - root - WARNING - Function Code 108 probably supported.
+2022-02-06 10:20:10,239 - root - WARNING - Function Code 109 not supported.
+2022-02-06 10:20:11,243 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:11,244 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:11,245 - root - WARNING - Function Code 110 probably supported.
+2022-02-06 10:20:11,502 - root - WARNING - Function Code 111 not supported.
+2022-02-06 10:20:12,505 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:12,507 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:12,508 - root - WARNING - Function Code 112 probably supported.
+2022-02-06 10:20:12,784 - root - WARNING - Function Code 113 not supported.
+2022-02-06 10:20:13,788 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:13,789 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:13,790 - root - WARNING - Function Code 114 probably supported.
+2022-02-06 10:20:14,065 - root - WARNING - Function Code 115 not supported.
+2022-02-06 10:20:15,069 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:15,070 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:15,071 - root - WARNING - Function Code 116 probably supported.
+2022-02-06 10:20:15,350 - root - WARNING - Function Code 117 not supported.
+2022-02-06 10:20:16,353 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:16,354 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:16,355 - root - WARNING - Function Code 118 probably supported.
+2022-02-06 10:20:16,632 - root - WARNING - Function Code 119 not supported.
+2022-02-06 10:20:17,636 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:17,637 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:17,639 - root - WARNING - Function Code 120 probably supported.
+2022-02-06 10:20:17,912 - root - WARNING - Function Code 121 not supported.
+2022-02-06 10:20:18,916 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:18,917 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:18,918 - root - WARNING - Function Code 122 probably supported.
+2022-02-06 10:20:19,192 - root - WARNING - Function Code 123 not supported.
+2022-02-06 10:20:20,196 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:20,197 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:20,198 - root - WARNING - Function Code 124 probably supported.
+2022-02-06 10:20:20,472 - root - WARNING - Function Code 125 not supported.
+2022-02-06 10:20:21,476 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:21,477 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:21,478 - root - WARNING - Function Code 126 probably supported.
+2022-02-06 10:20:21,757 - root - WARNING - Function Code 127 not supported.
+2022-02-06 10:20:22,763 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:22,764 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:22,765 - root - WARNING - Function Code 1 probably supported, repeat message ..
+2022-02-06 10:20:23,399 - root - WARNING - Function Code 7 not supported.
+2022-02-06 10:20:23,440 - root - WARNING - Function Code 8 not supported.
+2022-02-06 10:20:24,443 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:24,444 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:24,446 - root - WARNING - Function Code 11 probably supported, repeat message ..
+2022-02-06 10:20:24,721 - root - WARNING - Function Code 11 not supported.
+2022-02-06 10:20:24,771 - root - WARNING - Function Code 12 not supported.
+2022-02-06 10:20:25,821 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:25,822 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:25,823 - root - WARNING - Function Code 16 probably supported, repeat message ..
+2022-02-06 10:20:26,193 - root - WARNING - Function Code 20 not supported.
+2022-02-06 10:20:27,197 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:27,198 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:27,199 - root - WARNING - Function Code 21 probably supported, repeat message ..
+2022-02-06 10:20:27,469 - root - WARNING - Function Code 21 not supported.
+2022-02-06 10:20:28,473 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:28,474 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:28,475 - root - WARNING - Function Code 22 probably supported, repeat message ..
+2022-02-06 10:20:28,751 - root - WARNING - Function Code 22 not supported.
+2022-02-06 10:20:29,755 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:29,756 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:29,757 - root - WARNING - Function Code 23 probably supported, repeat message ..
+2022-02-06 10:20:30,085 - root - WARNING - Function Code 24 not supported.
+2022-02-06 10:20:31,089 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:31,090 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:31,091 - root - WARNING - Function Code 43 probably supported, repeat message ..
+2022-02-06 10:20:31,365 - root - WARNING - Function Code 43 not supported.
+2022-02-06 10:20:32,371 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:20:32,372 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:20:32,373 - root - WARNING - Fuzz_address  0 probably supported.
+2022-02-06 10:21:30,936 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:30,937 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:30,992 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=756 0x2f4- response=755  0x2f3 ,'.
+2022-02-06 10:21:32,035 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:32,036 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=757 0x2f5- response=0  0x0 ,Invalid protocol id  request=0  0x0- response=4  0x4 ,'.
+2022-02-06 10:21:33,040 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:33,041 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:33,100 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=759 0x2f7- response=758  0x2f6 ,'.
+2022-02-06 10:21:34,104 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:34,105 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:35,430 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:35,431 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:36,712 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:36,713 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:37,717 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:37,718 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:37,784 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=767 0x2ff- response=766  0x2fe ,'.
+2022-02-06 10:21:38,872 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:38,873 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=768 0x300- response=0  0x0 ,Invalid protocol id  request=0  0x0- response=1537  0x601 ,Invalid unit id request=1  0x1 - response=5  0x5 '.
+2022-02-06 10:21:38,937 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=769 0x301- response=1286  0x506 ,Invalid protocol id  request=0  0x0- response=13261  0x33cd ,Invalid unit id request=1  0x1 - response=3  0x3 '.
+2022-02-06 10:21:38,968 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=770 0x302- response=277  0x115 ,Invalid protocol id  request=0  0x0- response=3334  0xd06 ,Invalid unit id request=1  0x1 - response=0  0x0 '.
+2022-02-06 10:21:40,019 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:40,020 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=771 0x303- response=774  0x306 ,Invalid protocol id  request=0  0x0- response=44804  0xaf04 ,Invalid unit id request=1  0x1 - response=13  0xd '.
+2022-02-06 10:21:41,291 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:41,292 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:42,568 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:42,569 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:43,850 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:43,851 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:45,129 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:45,130 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:46,415 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:46,416 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:47,692 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:47,693 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:48,977 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:48,978 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:50,257 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:50,258 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:51,546 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:51,547 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:52,816 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:52,817 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:54,097 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:54,098 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:55,413 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:55,414 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:56,708 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:56,709 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:58,006 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:58,007 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:21:59,284 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:21:59,285 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:00,569 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:00,570 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:01,851 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:01,852 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:03,132 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:03,133 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:04,412 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:04,413 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:05,697 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:05,698 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:06,976 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:06,978 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:08,260 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:08,261 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:09,536 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:09,537 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:10,820 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:10,821 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:12,101 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:12,102 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:13,382 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:13,383 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:14,659 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:14,660 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:15,940 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:15,941 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:17,221 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:17,223 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:18,508 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:18,509 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:19,789 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:19,790 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:21,052 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:21,053 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:22,317 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:22,319 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:23,602 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:23,603 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:24,871 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:24,872 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:26,136 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:26,137 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:27,397 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:27,398 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:28,679 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:28,680 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:29,735 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:29,735 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=848 0x350- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=3  0x3 '.
+2022-02-06 10:22:31,028 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:31,029 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:32,301 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:32,302 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:33,571 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:33,572 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:34,832 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:34,833 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:36,101 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:36,101 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:37,383 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:37,384 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:38,662 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:38,663 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:39,963 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:39,964 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:41,245 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:41,246 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:42,509 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:42,510 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:43,787 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:43,788 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:45,068 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:45,069 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:46,347 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:46,348 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:47,618 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:47,619 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:48,883 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:48,884 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:50,152 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:50,153 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:51,463 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:51,463 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:52,724 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:52,725 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:54,005 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:54,006 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:55,293 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:55,294 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:56,569 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:56,570 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:57,848 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:57,849 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:22:59,131 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:22:59,132 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:00,411 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:00,412 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:01,697 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:01,698 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:02,977 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:02,978 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:04,253 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:04,254 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:05,536 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:05,537 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:06,817 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:06,818 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:08,100 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:08,101 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:09,383 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:09,383 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:10,664 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:10,665 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:11,944 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:11,945 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:13,223 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:13,224 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:14,494 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:14,496 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:15,794 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:15,795 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:17,056 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:17,057 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:18,338 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:18,339 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:19,615 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:19,616 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:20,903 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:20,904 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:22,159 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:22,160 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:23,458 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:23,459 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:24,723 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:24,724 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:26,007 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:26,008 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:27,275 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:27,276 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:28,557 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:28,558 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:29,840 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:29,842 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:31,119 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:31,120 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:32,399 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:32,400 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:33,697 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:33,698 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:34,979 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:34,981 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:36,241 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:36,242 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:37,508 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:37,509 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:38,800 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:38,801 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:40,088 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:40,089 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:41,363 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:41,364 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:42,423 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:42,424 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=961 0x3c1- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=3  0x3 '.
+2022-02-06 10:23:43,715 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:43,716 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:44,990 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:44,991 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:46,261 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:46,262 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:47,539 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:47,540 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:48,802 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:48,803 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:50,072 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:50,073 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:51,347 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:51,348 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:52,616 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:52,617 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:53,880 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:53,882 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:55,166 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:55,167 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:56,427 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:56,428 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:57,697 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:57,698 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:23:58,960 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:23:58,961 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:00,228 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:00,230 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:01,490 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:01,491 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:02,774 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:02,775 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:04,065 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:04,067 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:05,351 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:05,352 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:06,617 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:06,618 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:07,878 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:07,880 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:09,166 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:09,167 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:10,425 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:10,426 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:11,697 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:11,698 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:12,962 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:12,964 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:14,225 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:14,227 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:15,506 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:15,507 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:16,784 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:16,785 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:18,075 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:18,076 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:19,350 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:19,352 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:20,634 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:20,635 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:21,913 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:21,914 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:23,203 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:23,204 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:24,476 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:24,478 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:25,759 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:25,760 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:27,023 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:27,024 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:28,284 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:28,285 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:29,554 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:29,555 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:30,838 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:30,839 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:32,120 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:32,121 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:33,384 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:33,385 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:34,647 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:34,648 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:35,933 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:35,934 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:37,210 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:37,211 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:38,269 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:38,270 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=1048 0x418- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=4  0x4 '.
+2022-02-06 10:24:39,535 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:39,536 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:40,815 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:40,816 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:42,095 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:42,096 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:43,366 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:43,367 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:44,630 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:44,631 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:45,913 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:45,914 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:47,191 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:47,192 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:48,458 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:48,459 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:49,742 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:49,743 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:51,024 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:51,025 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:52,285 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:52,286 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:53,558 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:53,559 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:54,837 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:54,838 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:56,121 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:56,122 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:57,400 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:57,401 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:58,691 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:58,693 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:24:59,973 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:24:59,974 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:01,253 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:01,254 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:02,534 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:02,536 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:03,816 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:03,816 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:05,087 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:05,088 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:06,367 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:06,368 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:07,650 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:07,651 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:08,928 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:08,929 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:10,211 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:10,212 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:11,491 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:11,492 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:12,774 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:12,775 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:14,056 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:14,057 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:15,334 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:15,335 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:16,612 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:16,614 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:17,898 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:17,899 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:19,178 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:19,179 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:20,455 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:20,456 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:21,731 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:21,732 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:22,992 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:22,993 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:24,257 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:24,258 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:25,519 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:25,520 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:26,791 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:26,793 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:28,056 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:28,057 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:29,330 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:29,331 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:30,619 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:30,619 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:31,887 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:31,889 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:33,178 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:33,179 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:34,445 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:34,446 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:35,728 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:35,728 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:37,027 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:37,028 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:38,305 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:38,306 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:39,585 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:39,585 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:40,864 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:40,864 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:42,143 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:42,143 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:43,176 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:43,177 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=1149 0x47d- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=4  0x4 '.
+2022-02-06 10:25:44,464 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:44,465 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:45,744 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:45,745 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:47,026 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:47,027 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:48,288 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:48,288 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:49,556 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:49,558 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:50,840 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:50,841 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:52,103 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:52,104 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:53,387 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:53,388 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:54,650 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:54,652 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:55,913 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:55,914 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:57,184 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:57,185 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:58,446 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:58,447 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:25:59,736 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:25:59,736 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:00,771 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:00,771 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=1176 0x498- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=4  0x4 '.
+2022-02-06 10:26:02,050 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:02,051 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:03,337 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:03,337 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:04,613 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:04,613 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:05,892 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:05,894 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:07,184 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:07,184 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:08,457 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:08,458 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:09,740 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:09,740 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:11,019 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:11,020 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:12,300 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:12,301 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:13,587 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:13,588 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:14,868 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:14,869 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:16,149 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:16,150 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:17,425 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:17,426 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:18,713 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:18,714 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:19,997 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:19,998 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:21,269 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:21,269 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:22,551 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:22,552 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:23,835 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:23,836 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:25,113 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:25,114 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:26,397 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:26,398 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:27,678 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:27,679 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:28,961 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:28,962 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:30,247 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:30,248 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:31,541 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:31,542 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:32,819 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:32,820 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:34,101 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:34,102 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:35,384 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:35,385 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:36,660 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:36,661 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:37,941 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:37,942 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:39,005 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:39,006 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=1235 0x4d3- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=4  0x4 '.
+2022-02-06 10:26:40,273 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:40,274 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:41,553 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:41,555 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:42,832 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:42,833 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:44,115 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:44,116 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:45,393 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:45,394 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:46,677 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:46,678 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:47,960 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:47,961 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:49,245 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:49,246 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:50,542 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:50,543 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:51,801 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:51,803 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:53,070 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:53,071 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:54,342 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:54,343 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:55,616 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:55,617 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:56,664 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:56,666 - root - WARNING - ModbusInvalidMbapError 'Invalid transaction id: request=1262 0x4ee- response=1281  0x501 ,Invalid protocol id  request=0  0x0- response=11022  0x2b0e ,Invalid unit id request=1  0x1 - response=4  0x4 '.
+2022-02-06 10:26:57,930 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:57,931 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:26:59,214 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:26:59,215 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:00,510 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:00,511 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:01,792 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:01,793 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:03,070 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:03,071 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:04,352 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:04,354 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:05,621 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:05,622 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:06,899 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:06,900 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:08,183 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:08,184 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:09,456 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:09,457 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:10,749 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:10,750 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:12,037 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:12,038 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:13,305 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:13,306 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:14,585 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:14,586 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:15,864 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:15,865 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:17,134 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:17,135 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:18,412 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:18,413 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:19,699 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:19,700 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:20,980 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:20,981 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:22,250 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:22,252 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:23,509 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:23,510 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:24,792 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:24,793 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:26,085 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:26,086 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:27,353 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:27,355 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:28,645 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:28,646 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:29,935 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:29,936 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:31,209 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:31,210 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:32,497 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:32,498 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:34,036 - root - ERROR - Socket timeout.. not receive
+2022-02-06 10:27:34,037 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-06 10:27:35,339 - root - ERROR - Socket timeout.. not receive

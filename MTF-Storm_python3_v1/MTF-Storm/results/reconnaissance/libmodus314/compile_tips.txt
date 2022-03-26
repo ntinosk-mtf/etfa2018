@@ -1,0 +1,11 @@
+ 1395  gcc random-test-server.c -o random-test-server `pkg-config --libs --cflags libmodbus`
+ 1398  gcc bandwidth-server-many-up.c -o test-server `pkg-config --libs --cflags libmodbus`
+ 1402  gcc bandwidth-server-many-up.c -o test-server `pkg-config --libs --cflags libmodbus`
+ 1405  gcc bandwidth-server-many-up.c -o test-server `pkg-config --libs --cflags libmodbus`
+ 1408  gcc bandwidth-server-many-up.c -o test-server `pkg-config --libs --cflags libmodbus`
+ 1411  gcc bandwidth-server-many-up.c -o test-server `pkg-config --libs --cflags libmodbus`
+
+ 1414  gcc  -I /usr/local/include/modbus/modbus.h bandwidth-server-many-up.c -o test-server `pkg-config --libs --cflags libmodbus`
+
+echo $PKG_CONFIG_PATH
+export PKG_CONFIG_PATH=$PKG_CONFIG_PATH:/usr/local/lib/pkgconfig/

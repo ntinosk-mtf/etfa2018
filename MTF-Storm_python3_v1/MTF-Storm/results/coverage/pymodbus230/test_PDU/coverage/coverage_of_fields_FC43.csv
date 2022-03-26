@@ -1,0 +1,15 @@
+
+MTF-Storm v1.0 python3 fuzzing run:
+
+Date of run:2022-03-01 01:53:53.387885
+
+FC: 43 (0x2B)..,software under test: ./log/ 
+column names are:field, valid, invalid, total coverage % 
+
+Coverage for fields:mei_type, read_code, object_id
+
+	case and coverage for field no:
+
+	  mei_type	         1	        95	     37.50
+	 read_code	         4	        92	     37.50
+	 object_id	         3	        93	     37.50

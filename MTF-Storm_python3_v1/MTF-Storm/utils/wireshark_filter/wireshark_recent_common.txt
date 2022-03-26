@@ -1,0 +1,136 @@
+# Common recent settings file for Wireshark 3.2.5.
+#
+# This file is regenerated each time Wireshark is quit
+# and when changing configuration profile.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modsim32/trace_test_protoId.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modsim32/trace_test_trans.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modsim32/trace_test_len.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modslave70/trace_test_len.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modslave70/trace_test_len01.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modslave70/trace_test_prot01.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modslave70/trace_test_trans.pcap
+recent.capture_file: /home/ntinosk/boofuzz-modbus/test/modslave70/trace_test_unit.pcap
+recent.capture_file: /root/Έγγραφα/trace_fc43_demo.pcap
+recent.capture_file: /root/Επιφάνεια εργασίας/ntinosk/MTF_PROJECT/MTF_2015/mtf_python3/filtered.pcap
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: (( ip.src == 127.0.0.1 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 127.0.0.1 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: (( ip.src == 192.168.1.11 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 192.168.1.7 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: (( ip.src == 192.168.1.9 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 192.168.1.2 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: (( ip.src == 192.168.1.2 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 192.168.1.9 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: (( ip.src == 192.168.1.9 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 192.168.1.9 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: (( ip.src == 192.168.1.11 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 192.168.1.9 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: (( ip.src == 192.168.1.11 and tcp.flags==0x018 and tcp.dstport==502  ) or  (ip.src == 192.168.1.2 and tcp.flags==0x018 and tcp.srcport==502 ) )  or tcp.flags.reset==1
+recent.display_filter: mbtcp.unit_id == 0
+recent.display_filter: mbtcp.unit_id == 51
+recent.display_filter: mbtcp.unit_id == 255
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 0
+gui.geometry_main_y: 26
+gui.geometry_main_width: 1276
+gui.geometry_main_height: 614
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: TRUE
+
+# Leftalign Action Buttons.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_leftalign_actions: FALSE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Find packet search in.
+# One of: PACKET_LIST, PACKET_DETAILS, PACKET_BYTES
+gui.search_in: PACKET_LIST
+
+# Find packet character set.
+# One of: NARROW_AND_WIDE, NARROW, WIDE
+gui.search_char_set: NARROW_AND_WIDE
+
+# Find packet case sensitive search.
+# TRUE or FALSE (case-insensitive).
+gui.search_case_sensitive: FALSE
+
+# Find packet search type.
+# One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
+gui.search_type: DISPLAY_FILTER
+
+# Geometry and maximized state of ProtocolHierarchyDialog window.
+# Decimal integers.
+gui.geom.ProtocolHierarchyDialog.x: 116
+gui.geom.ProtocolHierarchyDialog.y: 35
+gui.geom.ProtocolHierarchyDialog.width: 1020
+gui.geom.ProtocolHierarchyDialog.height: 491
+# TRUE or FALSE (case-insensitive).
+gui.geom.ProtocolHierarchyDialog.maximized: FALSE
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 116
+gui.geom.PacketDialog.y: 35
+gui.geom.PacketDialog.width: 1020
+gui.geom.PacketDialog.height: 491
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketDialog.maximized: FALSE
+
+# Geometry and maximized state of PacketCommentDialog window.
+# Decimal integers.
+gui.geom.PacketCommentDialog.x: 426
+gui.geom.PacketCommentDialog.y: 130
+gui.geom.PacketCommentDialog.width: 400
+gui.geom.PacketCommentDialog.height: 300
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketCommentDialog.maximized: FALSE
+
+# Geometry and maximized state of PreferencesDialog window.
+# Decimal integers.
+gui.geom.PreferencesDialog.x: 296
+gui.geom.PreferencesDialog.y: 94
+gui.geom.PreferencesDialog.width: 799
+gui.geom.PreferencesDialog.height: 475
+# TRUE or FALSE (case-insensitive).
+gui.geom.PreferencesDialog.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"

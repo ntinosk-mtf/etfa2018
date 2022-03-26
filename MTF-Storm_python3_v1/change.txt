@@ -1,0 +1,12 @@
+Some changes and improvements related version Python 3
+
+1.Improvement reconnaissance phase (fix algorithm FC Support)
+2.Heuristic pairwise selection for FC05, FC06 (address vs value,less pairwise)
+3 Fix Nist file csv for FC15, FC16, FC23, FC20, FC21 (less pairwise)
+4.In test suite format testing, in choice "attack byte" add categories "interesting byte" (e.g.diagnostics command)
+5.Better structure to code (module and scripts)
+6.User selection single test or pairwise test or all
+7.Improve debugging in log files
+8.Better management exception and raise
+
+.. and many more changes and improvements

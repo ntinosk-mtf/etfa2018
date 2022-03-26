@@ -1,0 +1,133 @@
+2022-02-27 13:11:58,082 - root - WARNING - Function Code: 0 not supported.
+2022-02-27 13:11:58,105 - root - WARNING - Function Code: 9 not supported.
+2022-02-27 13:11:58,107 - root - WARNING - Function Code: 10 not supported.
+2022-02-27 13:11:58,113 - root - WARNING - Function Code: 13 not supported.
+2022-02-27 13:11:58,115 - root - WARNING - Function Code: 14 not supported.
+2022-02-27 13:11:58,118 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:58,119 - root - WARNING - Function Code:15 probably supported.
+2022-02-27 13:11:58,122 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:58,122 - root - WARNING - Function Code:16 probably supported.
+2022-02-27 13:11:58,131 - root - WARNING - Function Code: 18 not supported.
+2022-02-27 13:11:58,136 - root - WARNING - Function Code: 19 not supported.
+2022-02-27 13:11:58,146 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:58,147 - root - WARNING - Function Code:22 probably supported.
+2022-02-27 13:11:58,150 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:58,150 - root - WARNING - Function Code:23 probably supported.
+2022-02-27 13:11:58,155 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:58,156 - root - WARNING - Function Code:24 probably supported.
+2022-02-27 13:11:58,159 - root - WARNING - Function Code: 25 not supported.
+2022-02-27 13:11:58,161 - root - WARNING - Function Code: 26 not supported.
+2022-02-27 13:11:58,163 - root - WARNING - Function Code: 27 not supported.
+2022-02-27 13:11:58,165 - root - WARNING - Function Code: 28 not supported.
+2022-02-27 13:11:58,167 - root - WARNING - Function Code: 29 not supported.
+2022-02-27 13:11:58,169 - root - WARNING - Function Code: 30 not supported.
+2022-02-27 13:11:58,171 - root - WARNING - Function Code: 31 not supported.
+2022-02-27 13:11:58,173 - root - WARNING - Function Code: 32 not supported.
+2022-02-27 13:11:58,175 - root - WARNING - Function Code: 33 not supported.
+2022-02-27 13:11:58,179 - root - WARNING - Function Code: 34 not supported.
+2022-02-27 13:11:58,181 - root - WARNING - Function Code: 35 not supported.
+2022-02-27 13:11:58,183 - root - WARNING - Function Code: 36 not supported.
+2022-02-27 13:11:58,186 - root - WARNING - Function Code: 37 not supported.
+2022-02-27 13:11:58,187 - root - WARNING - Function Code: 38 not supported.
+2022-02-27 13:11:58,189 - root - WARNING - Function Code: 39 not supported.
+2022-02-27 13:11:58,191 - root - WARNING - Function Code: 40 not supported.
+2022-02-27 13:11:58,193 - root - WARNING - Function Code: 41 not supported.
+2022-02-27 13:11:58,195 - root - WARNING - Function Code: 42 not supported.
+2022-02-27 13:11:58,197 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:58,197 - root - WARNING - Function Code:43 probably supported.
+2022-02-27 13:11:58,201 - root - WARNING - Function Code: 44 not supported.
+2022-02-27 13:11:58,203 - root - WARNING - Function Code: 45 not supported.
+2022-02-27 13:11:58,205 - root - WARNING - Function Code: 46 not supported.
+2022-02-27 13:11:58,207 - root - WARNING - Function Code: 47 not supported.
+2022-02-27 13:11:58,209 - root - WARNING - Function Code: 48 not supported.
+2022-02-27 13:11:58,211 - root - WARNING - Function Code: 49 not supported.
+2022-02-27 13:11:58,212 - root - WARNING - Function Code: 50 not supported.
+2022-02-27 13:11:58,214 - root - WARNING - Function Code: 51 not supported.
+2022-02-27 13:11:58,216 - root - WARNING - Function Code: 52 not supported.
+2022-02-27 13:11:58,218 - root - WARNING - Function Code: 53 not supported.
+2022-02-27 13:11:58,220 - root - WARNING - Function Code: 54 not supported.
+2022-02-27 13:11:58,221 - root - WARNING - Function Code: 55 not supported.
+2022-02-27 13:11:58,223 - root - WARNING - Function Code: 56 not supported.
+2022-02-27 13:11:58,225 - root - WARNING - Function Code: 57 not supported.
+2022-02-27 13:11:58,227 - root - WARNING - Function Code: 58 not supported.
+2022-02-27 13:11:58,229 - root - WARNING - Function Code: 59 not supported.
+2022-02-27 13:11:58,230 - root - WARNING - Function Code: 60 not supported.
+2022-02-27 13:11:58,232 - root - WARNING - Function Code: 61 not supported.
+2022-02-27 13:11:58,234 - root - WARNING - Function Code: 62 not supported.
+2022-02-27 13:11:58,236 - root - WARNING - Function Code: 63 not supported.
+2022-02-27 13:11:58,238 - root - WARNING - Function Code: 64 not supported.
+2022-02-27 13:11:58,241 - root - WARNING - Function Code: 65 not supported.
+2022-02-27 13:11:58,243 - root - WARNING - Function Code: 66 not supported.
+2022-02-27 13:11:58,245 - root - WARNING - Function Code: 67 not supported.
+2022-02-27 13:11:58,247 - root - WARNING - Function Code: 68 not supported.
+2022-02-27 13:11:58,249 - root - WARNING - Function Code: 69 not supported.
+2022-02-27 13:11:58,251 - root - WARNING - Function Code: 70 not supported.
+2022-02-27 13:11:58,252 - root - WARNING - Function Code: 71 not supported.
+2022-02-27 13:11:58,254 - root - WARNING - Function Code: 72 not supported.
+2022-02-27 13:11:58,256 - root - WARNING - Function Code: 73 not supported.
+2022-02-27 13:11:58,258 - root - WARNING - Function Code: 74 not supported.
+2022-02-27 13:11:58,260 - root - WARNING - Function Code: 75 not supported.
+2022-02-27 13:11:58,261 - root - WARNING - Function Code: 76 not supported.
+2022-02-27 13:11:58,263 - root - WARNING - Function Code: 77 not supported.
+2022-02-27 13:11:58,265 - root - WARNING - Function Code: 78 not supported.
+2022-02-27 13:11:58,267 - root - WARNING - Function Code: 79 not supported.
+2022-02-27 13:11:58,269 - root - WARNING - Function Code: 80 not supported.
+2022-02-27 13:11:58,271 - root - WARNING - Function Code: 81 not supported.
+2022-02-27 13:11:58,272 - root - WARNING - Function Code: 82 not supported.
+2022-02-27 13:11:58,274 - root - WARNING - Function Code: 83 not supported.
+2022-02-27 13:11:58,276 - root - WARNING - Function Code: 84 not supported.
+2022-02-27 13:11:58,279 - root - WARNING - Function Code: 85 not supported.
+2022-02-27 13:11:58,280 - root - WARNING - Function Code: 86 not supported.
+2022-02-27 13:11:58,282 - root - WARNING - Function Code: 87 not supported.
+2022-02-27 13:11:58,284 - root - WARNING - Function Code: 88 not supported.
+2022-02-27 13:11:58,286 - root - WARNING - Function Code: 89 not supported.
+2022-02-27 13:11:58,288 - root - WARNING - Function Code: 90 not supported.
+2022-02-27 13:11:58,290 - root - WARNING - Function Code: 91 not supported.
+2022-02-27 13:11:58,291 - root - WARNING - Function Code: 92 not supported.
+2022-02-27 13:11:58,293 - root - WARNING - Function Code: 93 not supported.
+2022-02-27 13:11:58,295 - root - WARNING - Function Code: 94 not supported.
+2022-02-27 13:11:58,297 - root - WARNING - Function Code: 95 not supported.
+2022-02-27 13:11:58,298 - root - WARNING - Function Code: 96 not supported.
+2022-02-27 13:11:58,300 - root - WARNING - Function Code: 97 not supported.
+2022-02-27 13:11:58,302 - root - WARNING - Function Code: 98 not supported.
+2022-02-27 13:11:58,304 - root - WARNING - Function Code: 99 not supported.
+2022-02-27 13:11:58,306 - root - WARNING - Function Code: 100 not supported.
+2022-02-27 13:11:58,308 - root - WARNING - Function Code: 101 not supported.
+2022-02-27 13:11:58,310 - root - WARNING - Function Code: 102 not supported.
+2022-02-27 13:11:58,312 - root - WARNING - Function Code: 103 not supported.
+2022-02-27 13:11:58,314 - root - WARNING - Function Code: 104 not supported.
+2022-02-27 13:11:58,316 - root - WARNING - Function Code: 105 not supported.
+2022-02-27 13:11:58,317 - root - WARNING - Function Code: 106 not supported.
+2022-02-27 13:11:58,319 - root - WARNING - Function Code: 107 not supported.
+2022-02-27 13:11:58,321 - root - WARNING - Function Code: 108 not supported.
+2022-02-27 13:11:58,323 - root - WARNING - Function Code: 109 not supported.
+2022-02-27 13:11:58,325 - root - WARNING - Function Code: 110 not supported.
+2022-02-27 13:11:58,326 - root - WARNING - Function Code: 111 not supported.
+2022-02-27 13:11:58,328 - root - WARNING - Function Code: 112 not supported.
+2022-02-27 13:11:58,330 - root - WARNING - Function Code: 113 not supported.
+2022-02-27 13:11:58,332 - root - WARNING - Function Code: 114 not supported.
+2022-02-27 13:11:58,334 - root - WARNING - Function Code: 115 not supported.
+2022-02-27 13:11:58,335 - root - WARNING - Function Code: 116 not supported.
+2022-02-27 13:11:58,337 - root - WARNING - Function Code: 117 not supported.
+2022-02-27 13:11:58,339 - root - WARNING - Function Code: 118 not supported.
+2022-02-27 13:11:58,341 - root - WARNING - Function Code: 119 not supported.
+2022-02-27 13:11:58,343 - root - WARNING - Function Code: 120 not supported.
+2022-02-27 13:11:58,345 - root - WARNING - Function Code: 121 not supported.
+2022-02-27 13:11:58,347 - root - WARNING - Function Code: 122 not supported.
+2022-02-27 13:11:58,349 - root - WARNING - Function Code: 123 not supported.
+2022-02-27 13:11:58,351 - root - WARNING - Function Code: 124 not supported.
+2022-02-27 13:11:58,353 - root - WARNING - Function Code: 125 not supported.
+2022-02-27 13:11:58,355 - root - WARNING - Function Code: 126 not supported.
+2022-02-27 13:11:58,357 - root - WARNING - Function Code: 127 not supported.
+2022-02-27 13:11:59,638 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,641 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,645 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,647 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,660 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,663 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,668 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,679 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,682 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,685 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,731 - root - ERROR - ModbusResponseError length is only 0 bytes.
+2022-02-27 13:11:59,757 - root - ERROR - ModbusResponseError length is only 0 bytes.

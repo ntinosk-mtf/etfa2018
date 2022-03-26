@@ -1,0 +1,17 @@
+
+MTF-Storm v1.0 python3 fuzzing run:
+
+Date of run:2022-03-01 00:46:50.121656
+
+FC: 20 (0x14)..,software under test: ./log/ 
+column names are:field, valid, invalid, total coverage % 
+
+Coverage for fields 2-way :Byte_Count, Reference_Type, File_number, Record_number, Record_length, add_and_qua
+
+	 case of test are:
+
+	Byte_Count	      4382	      1209	      0.01
+	Reference_Type	        94	      5497	      0.01
+	File_number	       720	      4871	      0.01
+	Record_number	      3425	      2166	      0.01
+	Record_length	      1807	      3784	      0.01
